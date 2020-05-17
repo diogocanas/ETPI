@@ -8,7 +8,7 @@
  * Version        : 1.0
  */
 
- include_once '../inc.all.php';
+ include_once '../php/inc.all.php';
 
  class Database {
      private static $objInstance;

@@ -9,11 +9,12 @@
  */
 
  // Fichier de fonctions
- include_once 'functions.php';
+ require_once 'functions.php';
 
  // Classes
- include_once 'class/Database.php';
+ require_once 'class/Database.php';
+ require_once 'class/User.php';
 
  // Autres fichiers
- include_once 'conparam.php';
+ require_once 'conparam.php';
 ?>
